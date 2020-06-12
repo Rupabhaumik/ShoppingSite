@@ -10,7 +10,7 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
     CommonModule,
     HomepageRoutingModule,
     SharedModule,
-    NgbModule
+    NgbModule,
   ]
 })
 export class HomepageModule { }
